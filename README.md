@@ -11,5 +11,5 @@
 ### 3. RNN
 * How to build RNN model
 
-#### 4. GAN
+### 4. GAN
 * How to build GAN
