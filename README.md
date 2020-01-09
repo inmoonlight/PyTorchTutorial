@@ -10,3 +10,6 @@
 
 ### 3. GAN
 * How to build GAN
+
+### 4. RNN
+* How to build RNN
